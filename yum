@@ -1,0 +1,3 @@
+#!/bin/sh
+echo $0 is deprecated, use rpm-ostree
+exit 1
